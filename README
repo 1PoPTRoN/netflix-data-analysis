@@ -22,7 +22,7 @@ This project explores and visualizes Netflix's dataset using Python libraries li
 > Even as a beginner, I now understand the core data science flow: cleaning → analyzing → visualizing → explaining insights clearly.
 
 📸 Sample Visualization
-![sample](images/image.png)
+![sample](https://github.com/1PoPTRoN/netflix-data-analysis/blob/4f8aeeaf20e4269325b74eea725fbd640170ff48/images/image.png)
 
 📂 Dataset
 [Netflix Dataset from Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
