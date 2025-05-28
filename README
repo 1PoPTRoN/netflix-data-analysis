@@ -1,0 +1,28 @@
+# 🎬 Netflix Data Analysis
+
+This project explores and visualizes Netflix's dataset using Python libraries like **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**.
+
+## 📌 Tools Used
+- Python 🐍
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 🧼 Steps Covered
+1. **Data Cleaning** – Filled missing values, fixed formats
+2. **Content Type Analysis** – Compared Movies vs TV Shows
+3. **Top Countries Producing Content**
+4. **Release Trends by Year**
+5. **Popular Genres**
+6. **Movie Duration Distribution**
+
+## 🧠 What I Learned
+> **Even as a beginner, I now understand the core data science flow: cleaning → analyzing → visualizing → explaining insights clearly.**
+
+## 📸 Sample Visualization
+![sample](images/your_plot.png)
+
+## 📂 Dataset
+[Netflix Dataset from Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
