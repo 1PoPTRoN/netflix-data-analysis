@@ -31,10 +31,10 @@ This is a dope data analysis project that explores the Netflix dataset (from **K
 ## 📁 What’s in the Repo
 
 📦 netflix-data-analysis <br>
-┣ 📂 images/ # sample charts & visuals <br>
+┣ 📂 images/ #sample charts & visuals <br>
 ┣ 📄 analysis.ipynb # the main notebook with code + plots <br>
 ┣ 📄 netflix_titles.csv # raw Netflix dataset (Kaggle) <br>
-┣ 📄 README.md # you’re reading it rn 😊 <br>
+┣ 📄 README.md #you’re reading it rn 😊 <br>
 
 
 ## 📌 How to Run It Locally
